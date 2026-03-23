@@ -2,20 +2,20 @@
 <img
 		width="250"
 		alt="Tinder Clone - React Native"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/tinder-clone-logo.gif">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/tinder-clone-logo.gif">
 </h1>
 <h3 align="center">
 	Tinder Clone - React Native
 </h3>
 
 <p align="center">
-	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/stevenpersia/tinder-react-native.svg?style=flat-square">
-	<img alt="Licence" src="https://img.shields.io/github/license/stevenpersia/tinder-react-native.svg?style=flat-square">
+	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/aadityakumarsah/tinder-react-native.svg?style=flat-square">
+	<img alt="Licence" src="https://img.shields.io/github/license/aadityakumarsah/tinder-react-native.svg?style=flat-square">
 	<img alt="Star" src="https://img.shields.io/badge/you%20like%20%3F-STAR%20ME-blue.svg?style=flat-square">
 </p>
 
 <p align="center">
-	<img src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/tinderclone-preview.gif" width="300">
+	<img src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/tinderclone-preview.gif" width="300">
 </p>
 
 
@@ -37,19 +37,19 @@ This project was inspired by this [amazing Kishore's work on Dribbble](https://d
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-1.png">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/capture-1.png">
 <img
 		width="210"
 		alt="Capture 2"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-2.png">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/capture-2.png">
 <img
 		width="210"
 		alt="Capture 3"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-3.png">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/capture-3.png">
 <img
 		width="210"
 		alt="Capture 4"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-4.png">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/capture-4.png">
 
 
 ## Installation and usage
@@ -64,7 +64,8 @@ This project works fine for iOS but in Android version there are serious UI prob
 Clone this repository :
 
 ```
-git clone https://github.com/stevenpersia/tinder-react-native.git
+git clone https://github.com/aadityakumarsah/tinder-react-native.git
+
 cd tinder-react-native
 ```
 
@@ -125,17 +126,3 @@ react-native run-android
 ## Star, Fork, Clone & Contribute
 
 Feel free to contribute on this repository. If my work helps you, please give me back with a star. This means a lot to me and keeps me going!
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-<td align="center"><a href="http://Skibudsapp.com"><img src="https://avatars3.githubusercontent.com/u/25047763?v=4" width="100px;" alt="Stephen Phillips"/><br /><sub><b>Stephen Phillips</b></sub></a><br /><a href="#question-Sbphillips19" title="Answering Questions">💬</a></td>
-<td align="center"><a href="https://github.com/anand9"><img src="https://avatars3.githubusercontent.com/u/638590?v=4" width="100px;" alt="Anand Vasudevan "/><br /><sub><b>Anand Vasudevan </b></sub></a><br /><a href="https://github.com/stevenpersia/tinder-react-native/commits?author=anand9" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-# tinder
