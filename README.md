@@ -2,26 +2,26 @@
 <img
 		width="250"
 		alt="Tinder Clone - React Native"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/tinder-clone-logo.gif">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/tinder-clone-logo.gif">
 </h1>
 <h3 align="center">
 	Tinder Clone - React Native
 </h3>
 
 <p align="center">
-	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/stevenpersia/tinder-react-native.svg?style=flat-square">
-	<img alt="Licence" src="https://img.shields.io/github/license/stevenpersia/tinder-react-native.svg?style=flat-square">
+	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/aadityakumarsah/tinder-react-native.svg?style=flat-square">
+	<img alt="Licence" src="https://img.shields.io/github/license/aadityakumarsah/tinder-react-native.svg?style=flat-square">
 	<img alt="Star" src="https://img.shields.io/badge/you%20like%20%3F-STAR%20ME-blue.svg?style=flat-square">
 </p>
 
 <p align="center">
-	<img src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/tinderclone-preview.gif" width="300">
+	<img src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/tinderclone-preview.gif" width="300">
 </p>
 
 
 ## Overview
 
-⚠️ **This repository is not maintain anymore. I've made another repository of this project on Expo (and with Typescript) : https://github.com/stevenpersia/tinder-expo.**
+⚠️ **This repository is not maintain anymore. I've made another repository of this project on Expo (and with Typescript) : https://github.com/aadityakumarsah/tinder-expo.**
 
 👏 **Thank you for your stars, your issues and your pull requests. I really love open source community.** ❤️
 
@@ -37,19 +37,19 @@ This project was inspired by this [amazing Kishore's work on Dribbble](https://d
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-1.png">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/capture-1.png">
 <img
 		width="210"
 		alt="Capture 2"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-2.png">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/capture-2.png">
 <img
 		width="210"
 		alt="Capture 3"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-3.png">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/capture-3.png">
 <img
 		width="210"
 		alt="Capture 4"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-4.png">
+		src="https://github.com/aadityakumarsah/tinder-react-native/blob/master/preview/capture-4.png">
 
 
 ## Installation and usage
